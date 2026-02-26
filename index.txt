@@ -1,0 +1,17 @@
+Installation of Dart :
+ 
+	1-Search Dart on browser 
+	2-In navbar click on (get dart)
+	3-Now scroll down the page click (SDK as a zip file)
+	4-Scroll down Go the (Stable Channel)
+	5-click Dart SDK , (Architecture : x64)
+	6-Extract the zip file in htdocs
+	7-Now open the folder and open the (bin folder). copy the path of this folder
+	8-In search box search (environmental variable).
+	8-here click the path and now click the edit , click the new , And paste the folder path here. click ok. 
+
+Introduction Of Dart:
+
+    Dart is a client-optimized, open-source programming language developed by Google 
+    for building fast applications across multiple platforms, including web, mobile, 
+    desktop, and server. It is the foundation of the popular Flutter framework,
